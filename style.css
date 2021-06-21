@@ -1,0 +1,52 @@
+body{
+    font:'Raleway',sans-serif;
+    color: rgb(46, 46, 158);
+    text-align: center;
+    text-transform: uppercase;
+    /* letter-spacing: 0.5em; */
+    padding-top: 9%;
+    background: linear-gradient(to right, cyan,#a22020);
+}
+
+h1{
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgb(27, 20, 20);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.7em;
+    width:100% ;
+    /* margin-top: 0%; */
+    /* padding-top:15%; */
+}
+
+/* .csscode {
+    background:transparent; 
+    padding: 0px 100px 10px;
+    font-size: 15px;
+} */
+.copybutton{
+    background:transparent; 
+    cursor: pointer;
+
+}
+
+input[type="text"],
+input[type="text"]:focus   
+{
+         background: transparent;
+         border: none;
+         outline-width: 0;
+         font: size 100px;
+         text-transform: uppercase;
+         width: 35% ;
+}
+Share
+
+.bg {
+    background:transparent;
+    display: block;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+    position: relative;
+  }
